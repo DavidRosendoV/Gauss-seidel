@@ -4,10 +4,7 @@ package gauss_seidel;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Sofia
- */
+
 public final class Main extends javax.swing.JFrame {
 
     
